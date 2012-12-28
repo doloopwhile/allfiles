@@ -17,8 +17,9 @@ setup(
     author='OMOTO Kenji',
     author_email='doloopwhile@gmail.com',
     license='MIT',
+
+    py_modules=['allfiles'],
     install_requires=[],
-    packages=find_packages(),
     test_suite='',
     tests_require=[''],
 )
