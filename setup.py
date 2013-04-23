@@ -8,7 +8,7 @@ setup(
     name='allfiles',
     version='1.0',
     description='iterate matched files in directory trees',
-    long_description=open('README.rst', encoding='utf-8').read(),
+    long_description=open('README.md', encoding='utf-8').read(),
     classifiers=[
         'Programming Language :: Python :: 3',
         'Development Status :: 4 - Beta',
