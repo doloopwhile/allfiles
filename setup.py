@@ -7,7 +7,7 @@ import sys
 setup(
     name='allfiles',
     version='1.0',
-    description='iterate files in directory treesfnmatchcase',
+    description='iterate matched files in directory trees',
     long_description=open('README.rst', encoding='utf-8').read(),
     classifiers=[
         'Programming Language :: Python :: 3',
